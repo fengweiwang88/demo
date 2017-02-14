@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ! heh
 cece
+! heh123
+234
+>>>>>>> test
